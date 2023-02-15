@@ -1,0 +1,4 @@
+# Ignored list
+*.tmp
+*.bak
+bin/*
