@@ -1,1 +1,3 @@
 New file was add for branch "test1"
+Add text to this file.
+Want to see conflict...
