@@ -1,0 +1,22 @@
+* 22c1d3d (HEAD -> rebase_b1, tag: rebase1_1) Branch 'rebase1', change 1
+*   ff1d8f8 (rebase_b2, master) Merge test2 & master. Conflict fixed.
+|\  
+| * c4f26b5 (tag: v1.9_test2) Testing files for merge conflict v2.0
+* | 4be3676 (tag: v1.9_test1_v1.1) Testing files for merge conflict v1.1
+* | 4fdbd7a (tag: v1.9_test1) Testing files for merge conflict v1.0
+|/  
+*   98403e3 (tag: v1.9) Merge branch 'second' to master (after 'third')
+|\  
+| * 3557978 (tag: v1.8.2) New commit to branch 'second', add file in folder, v1.8.2
+| * fe86bb0 (tag: v1.8.1) Commit to branch 'second', v1.8.1
+* | bf687ca (tag: v1.8b3) New commit to branch 'third', edit readme.txt, v1.8b3
+|/  
+* a1b9bd5 (tag: v1.8) Commit for command --amend
+* c1646b6 (tag: v1.7, lab/master) Edit readme.txt (2023-02-16)
+* 72dfd40 (tag: v1.6) New file deleted (2023-02-16)
+* c1f0364 (tag: v1.5) New file add (2023-02-16)
+* 30a1299 (tag: v1.4) New line in file inside folder (2023-02-16)
+* 8ce4007 (tag: v1.3) Added text file in folder
+* 82d4125 (tag: v1.2) Added .gitignore
+* 68e6c6a (tag: v1.1) It's A New test Commit
+* 621317c (tag: v1.0) New Test Commit / 2023-02-15
